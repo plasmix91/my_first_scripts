@@ -8,11 +8,11 @@ time.sleep(2)
 
 print("IIIHHTTTTT DOESN'T MATTER WHAT YOUR NAME IS!")
 
-time.sleep(2.5)
+time.sleep(3)
 
 print("IFFF YOUUU SMEEEEEEEEEEEELLLLLLLELELELELELELELELEELLLLAAAAUUUU")
 
-time.sleep(4.5)
+time.sleep(5.5)
 
 print("WHAT THE ROCK")
 
@@ -22,9 +22,9 @@ print("IS")
 
 time.sleep(1)
 
-print("COOKIN! *eyebrow*")
+print("COOKIN! *raises eyebrow*")
 
-time.sleep(.75)
+time.sleep(.65)
 
 print(" ")
 
